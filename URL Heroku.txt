@@ -1,0 +1,7 @@
+Backend ->
+Local : http://127.0.0.1:5000/diabetes_prediction
+Heroku backend : https://diabeticmilestone.herokuapp.com/diabetes_prediction
+
+Frondend ->
+Local : http://localhost:8501/
+Heroku frondend : https://checkyourselfdiabetes.herokuapp.com/
